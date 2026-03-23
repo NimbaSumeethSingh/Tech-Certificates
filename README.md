@@ -1,23 +1,23 @@
-# 🎓 Internship & Training Certificates
+# 🎓 Internship, Training & Project Certificates
 
-This repository contains my verified certificates from internships, training programs, and participation in various domains including Full Stack Development, MERN Stack, Data Science, and Machine Learning.
+This repository contains my verified certificates from internships, training programs, and project completions in the domains of Full Stack Development, MERN Stack, Data Science, and Machine Learning.
 
 ---
 
-## 🏆 Certificates Overview
+## 🏆 Internship & Training Certificates
 
 ### 💻 Internselite
 
 #### 🔹 Full Stack & MERN Stack Internship
 - Successfully completed internship in Full Stack Development (MERN Stack)
 - Gained hands-on experience in building web applications using MongoDB, Express.js, React, and Node.js  
-📄 [View Certificate](./CertificateofInternship-InternsElite.pdf)
+📄 [View Certificate](https://github.com/NimbaSumeethSingh/Certificates/blob/main/Certificate%20of%20Internship-InternsElite.pdf)
 
 ---
 
 #### 🔹 Full Stack & MERN Stack Training
 - Completed structured training program covering frontend and backend technologies  
-📄 [View Certificate](./training-internselite-mern.pdf)
+📄 [View Certificate](https://github.com/NimbaSumeethSingh/Certificates/blob/main/Certificate%20of%20Training-InternsElite.pdf)
 
 ---
 
@@ -25,34 +25,50 @@ This repository contains my verified certificates from internships, training pro
 
 #### 🔹 Data Science Internship
 - Completed internship focusing on data analysis, visualization, and machine learning basics  
-📄 [View Certificate](./internship-1stop-datascience.pdf)
+📄 [View Certificate](https://github.com/NimbaSumeethSingh/Certificates/blob/main/data_science%20internship_1stopai.pdf)
 
 ---
 
 #### 🔹 Machine Learning Internship
 - Worked on machine learning concepts including model building and evaluation  
-📄 [View Certificate](./internship-1stop-ml.pdf)
+📄 [View Certificate](https://github.com/NimbaSumeethSingh/Certificates/blob/main/Machine_learning_internship_1stopai.pdf)
 
 ---
 
 #### 🔹 Participation – Machine Learning Program
 - Participated in Machine Learning internship program activities and workshops  
-📄 [View Certificate](./participation-ml.pdf)
+📄 [View Certificate](https://github.com/NimbaSumeethSingh/Certificates/blob/main/participation-ml.pdf)
 
 ---
 
 #### 🔹 Participation – Data Science Program
 - Participated in Data Science internship program activities  
-📄 [View Certificate](./participation-ds.pdf)
+📄 [View Certificate](https://github.com/NimbaSumeethSingh/Certificates/blob/main/participation-ds.pdf)
+
+---
+
+## 🚀 Project Completion Certificates
+
+### 🧠 Hate Speech Detection (Data Science)
+- Built a model to detect hate speech using NLP techniques  
+- Applied text preprocessing, feature extraction, and classification models  
+📄 [View Certificate](https://github.com/NimbaSumeethSingh/Certificates/blob/main/Project%20Completion%20DS.pdf)
+
+---
+
+### 🩺 Diabetes Prediction (Machine Learning)
+- Developed a machine learning model to predict diabetes based on medical data  
+- Performed data preprocessing, model training, and evaluation  
+📄 [View Certificate](https://github.com/NimbaSumeethSingh/Certificates/blob/main/Project%20Completion%20ML.pdf)
 
 ---
 
 ## 🧠 Skills Gained
-- Full Stack Development (MERN)
+- Full Stack Development (MERN Stack)
 - Frontend & Backend Development
-- REST APIs
+- REST API Development
 - Data Analysis & Visualization
-- Machine Learning Basics
+- Machine Learning & NLP Basics
 
 ---
 
