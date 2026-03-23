@@ -37,13 +37,13 @@ This repository contains my verified certificates from internships, training pro
 
 #### 🔹 Participation – Machine Learning Program
 - Participated in Machine Learning internship program activities and workshops  
-📄 [View Certificate](https://github.com/NimbaSumeethSingh/Certificates/blob/main/participation-ml.pdf)
+📄 [View Certificate](https://github.com/NimbaSumeethSingh/Certificates/blob/main/participationML_1stopai.pdf)
 
 ---
 
 #### 🔹 Participation – Data Science Program
 - Participated in Data Science internship program activities  
-📄 [View Certificate](https://github.com/NimbaSumeethSingh/Certificates/blob/main/participation-ds.pdf)
+📄 [View Certificate](https://github.com/NimbaSumeethSingh/Certificates/blob/main/participationDS_1stopai.pdf)
 
 ---
 
