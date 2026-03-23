@@ -60,9 +60,3 @@ This repository contains my verified certificates from internships, training pro
 All certificates are uploaded for verification and professional reference purposes.
 
 ---
-
-## 📫 Contact
-Feel free to connect with me:
-
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-link
