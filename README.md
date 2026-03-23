@@ -11,7 +11,7 @@ This repository contains my verified certificates from internships, training pro
 #### 🔹 Full Stack & MERN Stack Internship
 - Successfully completed internship in Full Stack Development (MERN Stack)
 - Gained hands-on experience in building web applications using MongoDB, Express.js, React, and Node.js  
-📄 [View Certificate](./Certificate of Internship-InternsElite.pdf)
+📄 [View Certificate](./CertificateofInternship-InternsElite.pdf)
 
 ---
 
