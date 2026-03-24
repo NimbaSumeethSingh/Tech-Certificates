@@ -9,20 +9,20 @@ This folder contains my internship certificates from recognized organizations in
 ### 💻 Internselite – Full Stack Web Development
 - Completed internship focused on Full Stack Web Development using MERN Stack  
 - Gained hands-on experience in building scalable web applications  
-📄 [View Certificate](./internselite-fullstack-internship.pdf)
+📄 [View Certificate](./https://github.com/NimbaSumeethSingh/Tech-Certificates/blob/main/Internship/Certificate%20of%20Internship-InternsElite.pdf)
 
 ---
 
 ### 🤖 1Stop.ai – Machine Learning Program
 - Completed internship covering core machine learning concepts and model development  
 - Worked on practical implementations and real-world datasets  
-📄 [View Certificate](./1stop-ml-internship.pdf)
+📄 [View Certificate](./https://github.com/NimbaSumeethSingh/Tech-Certificates/blob/main/Internship/Certificate%20of%20Machine_learning_internship_1stopai.pdf)
 
 ---
 
 ### 📊 1Stop.ai – Data Science Program
 - Completed internship focused on data analysis, visualization, and data-driven insights  
-📄 [View Certificate](./1stop-datascience-internship.pdf)
+📄 [View Certificate](./https://github.com/NimbaSumeethSingh/Tech-Certificates/blob/main/Internship/Certificate%20of%20data_science%20internship_1stopai.pdf)
 
 ---
 
