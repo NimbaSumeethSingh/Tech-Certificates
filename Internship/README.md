@@ -9,7 +9,7 @@ This folder contains my internship certificates from recognized organizations in
 ### 💻 Internselite – Full Stack Web Development
 - Completed internship focused on Full Stack Web Development using MERN Stack  
 - Gained hands-on experience in building scalable web applications  
-📄 [View Certificate](./Certificate of Internship-InternsElite.pdf)
+📄 [View Certificate](./https://github.com/NimbaSumeethSingh/Tech-Certificates/blob/main/Internship/Certificate%20of%20Internship-InternsElite.pdf)
 
 ---
 
